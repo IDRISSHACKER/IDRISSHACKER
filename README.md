@@ -1,16 +1,21 @@
-### Hi there 👋
-
-<!--
-**IDRISSHACKER/IDRISSHACKER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## </ IDRISS HACKER>
+### Bonjour toi ?
+IDRISS-HACKER Developpeur fullstack web, bureau & mobile.
+<h4> Mes languages de dev </h4>
+<ul>
+  <li>C/C++</li>
+ <li>Pyhon</li>
+ <li>Javascript</li>
+ <li>Java</li>
+ <li>Php</li>
+ <li>kotlin</li>
+ <li>scss</li>
+</ul>
+  <h4> Mes technos </h4>
+<ul>
+<li>ReactJS</li>
+<li>Flutter</li>
+<li>PyQt</li>
+<li>NodeJs</li>
+<li>Redux Saga</li>
+</ul>
