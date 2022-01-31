@@ -5,7 +5,9 @@ IDRISS-HACKER Developpeur fullstack web, bureau & mobile.
 <ul>
   <li>C/C++</li>
  <li>Pyhon</li>
- <li>Javascript</li>
+ <li>Javascript(es6)</li>
+ <li>Typescript</li>
+ <li>Dart</li>
  <li>Java</li>
  <li>Php</li>
  <li>kotlin</li>
@@ -18,4 +20,6 @@ IDRISS-HACKER Developpeur fullstack web, bureau & mobile.
 <li>PyQt</li>
 <li>NodeJs</li>
 <li>Redux Saga</li>
+<li>VueJS</li>
+<li>Laravel</li>
 </ul>
