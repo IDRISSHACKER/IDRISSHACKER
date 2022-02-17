@@ -1,7 +1,6 @@
 ## </ IDRISS HACKER>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IDRISSHACKER&show_icons=true&theme=radical)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IDRISSHACKER&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IDRISSHACKER&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IDRISSHACKER&langs_count=10)](https://github.com/IDRISSHACKER/lifeLinehttps://github.com/IDRISSHACKER/lifeLine)
 ### Bonjour toi ?
 IDRISS-HACKER Developpeur fullstack web, bureau & mobile.
 <h4> Mes languages de dev </h4>
