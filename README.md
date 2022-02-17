@@ -19,7 +19,14 @@ IDRISS-HACKER Developpeur fullstack web, bureau & mobile.
 <li>Flutter</li>
 <li>PyQt</li>
 <li>NodeJs</li>
-<li>Redux Saga</li>
+<li>Redux && Redux Saga</li>
 <li>VueJS</li>
 <li>Laravel</li>
+<li>GRAPHQL</li>
+<li>ESPRESS</li>
+<li>MEAN</li>
+<li>MONGO DB</li>
+<li>APPOLO</li>
+ <li>DOCKER</li>
+ <li>PM2</li>
 </ul>
