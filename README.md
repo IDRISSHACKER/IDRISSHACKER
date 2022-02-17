@@ -1,4 +1,5 @@
 ## </ IDRISS HACKER>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IDRISSHACKER&hide=contribs,prs)
 ### Bonjour toi ?
 IDRISS-HACKER Developpeur fullstack web, bureau & mobile.
 <h4> Mes languages de dev </h4>
