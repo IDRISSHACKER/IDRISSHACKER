@@ -1,8 +1,7 @@
-## IDR6IX
+## IDR6IX (FullStack dev).
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IDRISSHACKER&show_icons=true&theme=radical)
 ### Bonjour toi ?
-Idriss duval Developpeur fullstack web, bureau & mobile.
-<h4> Mes languages de dev </h4>
+<h4>Langs</h4>
 <ul>
  <li>Pyhon</li>
  <li>Javascript(es2022)[TS, TSX, JSX]</li>
@@ -12,7 +11,7 @@ Idriss duval Developpeur fullstack web, bureau & mobile.
  <li>kotlin</li>
  <li>C/C++</li>
 </ul>
-  <h4> Mes technos </h4>
+  <h4> Tech </h4>
 <ul>
 <li>ReactJS</li>
 <li>VueJS3</li>
